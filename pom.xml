@@ -52,11 +52,6 @@
             <scope>compile</scope>
         </dependency>
 
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-lang3</artifactId>
-            <version>3.12.0</version> <!-- Последняя версия библиотеки -->
-        </dependency>
 
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
